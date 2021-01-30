@@ -1,0 +1,13 @@
+.submit img{
+    width: 160px;
+    height: 130px;
+}
+.submit h3{
+    font-size: 28px;
+    color: darkgreen;
+}
+.submit{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+}
